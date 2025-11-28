@@ -1,10 +1,7 @@
-# Nome da entidade
+# Repositório Teste criado por JF
 
-- URL: [Link em texto da URL da entidade](URL do site da entidade)
-- Proprietário: Inserir proprietário
-- Candidatura a:  Inserir Selo Bronze, Selo Prata ou Selo Ouro
+- URL: [acessibilidade.gov.pt](https://www.acessibilidade.gov.pt)
+- Proprietário: ARTE, I.P.
+- Candidatura a:  Selo Ouro
   
-## Consulte aqui: [Relatório da Auditoria da X](https://unidade-acesso.github.io/report_00X/relatorio_report_00X.html)
-
-### Recursos de apoio ao relatório:
-- [Guia de utilização do relatório de auditorias](https://unidade-acesso.github.io/reports/guiao.html)
+## Consulte aqui: [Relatório da Auditoria da Teste JF](https://unidade-acesso.github.io/report_011/relatorio_report_001.html)
