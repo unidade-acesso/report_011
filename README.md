@@ -12,6 +12,6 @@ Consulte aqui a última atualização: [Relatório do Teste criado por JF](relat
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report_001.html">(dd/mm/aaaa). Relatório do Teste criado por JF</a></li>
+    <li><a href="28112025_report_001.html">(28/12/2025). Relatório do Teste criado por JF</a></li>
   </ul>
 </details>
